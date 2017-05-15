@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17450" started-at="2017-05-15T06:22:44Z" finished-at="2017-05-15T06:23:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17450" started-at="2017-05-15T06:22:44Z" finished-at="2017-05-15T06:23:01Z">
+      <class name="com.adsy.TestSubmittForm.TestSubmittForm">
+        <test-method status="PASS" signature="verifyContactSupport(com.adsy.items.User)[pri:0, instance:com.adsy.TestSubmittForm.TestSubmittForm@4883b407]" name="verifyContactSupport" duration-ms="11493" started-at="2017-05-15T09:22:44Z" data-provider="getData" finished-at="2017-05-15T09:22:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.adsy.items.User@52a86356]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactSupport -->
+        <test-method status="PASS" signature="emailConfirmation()[pri:0, instance:com.adsy.TestSubmittForm.TestSubmittForm@4883b407]" name="emailConfirmation" duration-ms="5904" started-at="2017-05-15T09:22:55Z" depends-on-methods="com.adsy.TestSubmittForm.TestSubmittForm.verifyContactSupport" finished-at="2017-05-15T09:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailConfirmation -->
+      </class> <!-- com.adsy.TestSubmittForm.TestSubmittForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

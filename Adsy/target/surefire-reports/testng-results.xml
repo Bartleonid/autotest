@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestLogin" duration-ms="316320" started-at="2017-04-27T12:34:48Z" finished-at="2017-04-27T12:40:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="316320" started-at="2017-04-27T12:34:48Z" finished-at="2017-04-27T12:40:04Z">
+      <class name="TestLogin">
+        <test-method status="PASS" signature="login()[pri:0, instance:TestLogin@3a03464]" name="login" is-config="true" duration-ms="24021" started-at="2017-04-27T15:34:48Z" finished-at="2017-04-27T15:35:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyAdminLogin(com.cstoreoffice.items.User)[pri:0, instance:TestLogin@3a03464]" name="verifyAdminLogin" duration-ms="58491" started-at="2017-04-27T15:35:12Z" data-provider="getData" finished-at="2017-04-27T15:36:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.cstoreoffice.items.User@27e47833]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminLogin -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestLogin@3a03464]" name="login" is-config="true" duration-ms="8903" started-at="2017-04-27T15:36:10Z" finished-at="2017-04-27T15:36:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyAdminLogin(com.cstoreoffice.items.User)[pri:0, instance:TestLogin@3a03464]" name="verifyAdminLogin" duration-ms="22461" started-at="2017-04-27T15:36:19Z" data-provider="getData" finished-at="2017-04-27T15:36:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.cstoreoffice.items.User@6f6745d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminLogin -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestLogin@3a03464]" name="login" is-config="true" duration-ms="8026" started-at="2017-04-27T15:36:42Z" finished-at="2017-04-27T15:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyAdminLogin(com.cstoreoffice.items.User)[pri:0, instance:TestLogin@3a03464]" name="verifyAdminLogin" duration-ms="25916" started-at="2017-04-27T15:36:50Z" data-provider="getData" finished-at="2017-04-27T15:37:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.cstoreoffice.items.User@27508c5d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminLogin -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestLogin@3a03464]" name="login" is-config="true" duration-ms="7531" started-at="2017-04-27T15:37:15Z" finished-at="2017-04-27T15:37:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyAdminLogin(com.cstoreoffice.items.User)[pri:0, instance:TestLogin@3a03464]" name="verifyAdminLogin" duration-ms="22545" started-at="2017-04-27T15:37:23Z" data-provider="getData" finished-at="2017-04-27T15:37:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.cstoreoffice.items.User@4f704591]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminLogin -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestLogin@3a03464]" name="login" is-config="true" duration-ms="7765" started-at="2017-04-27T15:37:46Z" finished-at="2017-04-27T15:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyAdminLogin(com.cstoreoffice.items.User)[pri:0, instance:TestLogin@3a03464]" name="verifyAdminLogin" duration-ms="24473" started-at="2017-04-27T15:37:53Z" data-provider="getData" finished-at="2017-04-27T15:38:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.cstoreoffice.items.User@4b5189ac]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminLogin -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestLogin@3a03464]" name="login" is-config="true" duration-ms="11048" started-at="2017-04-27T15:38:18Z" finished-at="2017-04-27T15:38:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyAdminLogin(com.cstoreoffice.items.User)[pri:0, instance:TestLogin@3a03464]" name="verifyAdminLogin" duration-ms="20729" started-at="2017-04-27T15:38:29Z" data-provider="getData" finished-at="2017-04-27T15:38:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.cstoreoffice.items.User@1e4d3ce5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminLogin -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestLogin@3a03464]" name="login" is-config="true" duration-ms="7880" started-at="2017-04-27T15:38:50Z" finished-at="2017-04-27T15:38:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyAdminLogin(com.cstoreoffice.items.User)[pri:0, instance:TestLogin@3a03464]" name="verifyAdminLogin" duration-ms="32074" started-at="2017-04-27T15:38:57Z" data-provider="getData" finished-at="2017-04-27T15:39:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.cstoreoffice.items.User@3ddc6915]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminLogin -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestLogin@3a03464]" name="login" is-config="true" duration-ms="9888" started-at="2017-04-27T15:39:29Z" finished-at="2017-04-27T15:39:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="verifyAdminLogin(com.cstoreoffice.items.User)[pri:0, instance:TestLogin@3a03464]" name="verifyAdminLogin" duration-ms="24546" started-at="2017-04-27T15:39:39Z" data-provider="getData" finished-at="2017-04-27T15:40:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.cstoreoffice.items.User@704deff2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminLogin -->
+      </class> <!-- TestLogin -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestLogin -->
+</testng-results>
